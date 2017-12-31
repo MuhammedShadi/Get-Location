@@ -1,0 +1,12 @@
+body{
+    background-color:cornflowerblue; 
+}
+p{
+    font-size: 55px;
+    
+}
+button{
+    padding: 30px;
+    margin: 10px;
+    border: 2px; 
+}
